@@ -1,0 +1,19 @@
+id,username,email,senha,autenticacao_habilitada,codigo_autenticacao,criado_em,perfil
+3,prof,professorjdefora@gmail.com,$2y$10$Zl29kirohGNj9Xz0SKoTauTbzGv22BgJLfVtu.ryvdHR3AlmECfbi,1,275123,"2024-07-03 16:09:12",user
+4,aluno,aluno@teste.com,$2y$10$aNG0STByUwGeRH9E.WMzWuUXT2C2qxBPNeKipoTDGPDXUnMvnZrWK,1,,"2024-07-04 10:34:03",admin
+5,cris,cris@teste.com,$2y$10$zoUb2KTd/Y/QzcS2pmLYFuViZFLvwtlhADFTfDcSfkTDu5yY6hJ8a,0,,"2024-07-04 10:37:51",user
+6,churros,churros@uol.com,$2y$10$bWt0Uf7aYQSVZk8xLpBXleG0LEhwgcUGYQPLbTIlt9k9YmhAJpsHu,1,,"2024-07-04 10:43:04",user
+7,felipe,felipe@mengao.com,$2y$10$h4G.c2mSuwuJqUvWt12ceeYYViIhTxTganyT8Ig2dNMt/mS15h9OC,1,,"2024-07-04 10:50:29",user
+8,ana,ana@uol.com,$2y$10$Z6a5RC5exkEtwzdsOmqzPuK5oqm4wX1Lq4rF87WqB8VmNpwguMaKi,1,,"2024-07-04 16:47:06",user
+9,opa,opa@opa.com,$2y$10$cBH8D1KGlCBoqblas8764.lFK6I2kAQILr1r/jlE2QPOjFGBJrYQW,1,892016,"2024-07-07 21:59:06",user
+12,admin,admin@uol.com,$2y$10$yHfGbJQw.6MId8hpLB0aG.oLgQNMwULhwRz3NySvu/dT/kiG4hsqa,1,,"2024-07-08 10:30:43",admin
+17,seguro,seguro@uol.com,$2y$10$UGNQWD5moRTEldn8KdFts.dWppCPK0XVh//DoOT/Z3faf.BgJEy.a,1,,"2024-07-11 16:16:04",user
+18,ZAP,zaproxy@example.com,$2y$10$WEAKkc8KaWGW0F.7jStHaOf156.FF.RlsiP./L3QgG70aXRoTURda,1,171190,"2024-07-11 18:31:51",user
+19,prova,prova@teste.br,$2y$10$Yl9PmJVO1osgnz6IjE90yOoIOUJeD73snZ2Fek1ErimQgMQaDdJmO,1,,"2024-07-11 19:09:55",user
+21,carlos,carlos@gmail.com,$2y$10$.hpGrrJPAhdwBJVCyKAtoOHityIcFHAa8YVUpiCQTYW7RwdhoepBy,1,,"2024-07-11 19:17:22",user
+22,roberto,roberto.ba@gmail.com,$2y$10$AzNuVyIJsHWPL8woYeUYXOX0SQq5W/IidzwFtTmeDTgWH4llThDCy,1,910902,"2024-07-11 19:26:07",user
+23,mary,mary@teste.br,$2y$10$FkxIackN1m.1tzcOXVgX0ODP6r.MLj3qnX40qukanMcjofXrGHZia,1,,"2024-07-11 19:27:45",user
+24,novo,novo@uol.com,$2y$10$qTySRPzfC4xW.OxfW9ATSu9USZ/jtlocMI2WN8Q0IgQgZuB6DvhdW,0,,"2024-07-11 22:05:50",user
+25,flavia,flavia@teste.com,$2y$10$d5JEQfU8iwpCp5O3R23Mc.PgAZwmkYxwnCH/CxdF3DVtYiQ1BKD8W,1,,"2024-07-12 08:42:37",user
+26,adm,adm@int.com,$2y$10$Pn8JgA3XBgRuJEyEDuhTRO3FoHBLBC92RJFXZzrSy3o0WasqDAeFO,1,,"2024-07-31 20:22:18",admin
+27,seginf,seginf@gmail.com,$2y$10$I0EmxRL0TQGybe1XGov4TeY3dYIB8ayovNojxtbJ7bueP1DUv3kfC,1,,"2024-08-01 11:01:10",admin

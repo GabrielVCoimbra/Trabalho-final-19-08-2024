@@ -1,0 +1,57 @@
+[2024-08-05 04:57:39] Usuário 'admin' logado com sucesso.
+[2024-08-05 05:02:03] Usuário 'aluno' logado com sucesso.
+[2024-08-05 05:04:08] Usuário 'aluno' realizou logout.
+[2024-08-05 05:05:02] Tentativa de login falhou: Credenciais incorretas para usuário 'cris'.
+[2024-08-05 05:05:10] Usuário 'cris' logado com sucesso.
+[2024-08-05 05:05:16] Usuário 'cris' realizou logout.
+[2024-08-05 05:05:56] Usuário 'cris' logado com sucesso.
+[2024-08-05 05:06:00] Usuário 'cris' realizou logout.
+[2024-08-05 05:09:35] Usuário 'admin' logado com sucesso.
+[2024-08-05 05:09:50] Backup criado com sucesso: backup_2024-08-05_05-09-50.csv
+[2024-08-05 05:10:05] Backup criado com sucesso: backup_2024-08-05_05-10-05.csv
+[2024-08-05 05:10:09] Usuário 'admin' realizou logout.
+[2024-08-05 05:12:43] Usuário 'adm' logado com sucesso.
+[2024-08-05 05:13:27] Backup criado com sucesso: backup_2024-08-05_05-13-27.csv. Usuário: adm.
+[2024-08-05 05:13:45] Backup criado com sucesso: backup_2024-08-05_05-13-45.csv. Usuário: adm.
+[2024-08-05 05:13:50] Usuário 'adm' realizou logout.
+[2024-08-05 05:17:49] Usuário 'adm' logado com sucesso.
+[2024-08-05 05:18:58] Backup criado com sucesso: backup_2024-08-05_05-18-58.csv para o usuário 'adm'.
+[2024-08-05 05:19:01] Usuário 'adm' realizou logout.
+[2024-08-05 16:03:20] Usuário 'cris' logado com sucesso.
+[2024-08-05 16:03:53] Usuário 'cris' realizou logout.
+[2024-08-05 16:06:20] Tentativa de login falhou: Credenciais incorretas para usuário 'admin'.
+[2024-08-05 16:06:43] Usuário 'admin' logado com sucesso.
+[2024-08-05 16:07:00] Backup criado com sucesso: backup_2024-08-05_16-07-00.csv para o usuário 'admin'.
+[2024-08-05 16:07:12] Usuário 'admin' realizou logout.
+[2024-08-09 18:30:47] Usuário 'admin' logado com sucesso.
+[2024-08-09 18:31:03] Backup criado com sucesso: backup_2024-08-09_18-31-03.csv para o usuário 'admin'.
+[2024-08-09 18:31:53] Usuário 'admin' realizou logout.
+[2024-08-15 00:36:58] Usuário 'admin' logado com sucesso.
+[2024-08-15 00:38:09] Usuário 'admin' logado com sucesso.
+[2024-08-15 00:40:02] Usuário 'admin' logado com sucesso.
+[2024-08-15 01:02:13] Usuário 'aluno' logado com sucesso.
+[2024-08-15 01:02:31] Usuário 'aluno' realizou logout.
+[2024-08-15 01:02:42] Usuário 'cris' logado com sucesso.
+[2024-08-15 01:02:48] Usuário 'cris' realizou logout.
+[2024-08-15 01:23:13] Usuário 'admin' logado com sucesso.
+[2024-08-15 01:23:21] Usuário 'admin' realizou logout.
+[2024-08-15 01:23:58] Novo usuário registrado: raquel, E-mail: raquel.russi@gmail.com
+[2024-08-15 01:24:10] Usuário 'raquel' logado com sucesso.
+[2024-08-15 01:24:12] Usuário 'raquel' realizou logout.
+[2024-08-15 01:33:07] Novo usuário registrado: churras, E-mail: churras@rol.com
+[2024-08-15 01:33:20] Usuário 'churras' logado com sucesso.
+[2024-08-15 01:33:22] Usuário 'churras' realizou logout.
+[2024-08-15 01:34:16] Usuário 'churras' logado com sucesso.
+[2024-08-15 01:34:59] Usuário 'churras' realizou logout.
+[2024-08-15 01:46:50] Novo usuário registrado: cafofo, E-mail: cafofo@uol.com
+[2024-08-15 01:46:58] Usuário 'cafofo' logado com sucesso.
+[2024-08-15 01:47:02] Usuário 'cafofo' realizou logout.
+[2024-08-19 20:22:29] Novo usuário registrado: jose, E-mail: jojo@gmail.com
+[2024-08-19 20:22:51] Tentativa de login falhou: Credenciais incorretas para usuário 'jose'.
+[2024-08-19 20:23:43] Novo usuário registrado: gabriel v coimbra, E-mail: gabrielvvcoimbram@gmail.com
+[2024-08-19 20:23:57] Usuário 'gabriel v coimbra' logado com sucesso.
+[2024-08-19 20:42:30] Usuário 'gabriel v coimbra' logado com sucesso.
+[2024-08-19 20:44:25] Usuário 'gabriel v coimbra' logado com sucesso.
+[2024-08-19 20:55:25] Usuário 'gabriel v coimbra' realizou logout.
+[2024-08-19 20:55:42] Usuário 'gabriel v coimbra' logado com sucesso.
+[2024-08-19 20:55:53] Backup criado com sucesso: backup_2024-08-19_20-55-53.csv para o usuário 'gabriel v coimbra'.
